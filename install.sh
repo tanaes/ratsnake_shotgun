@@ -12,3 +12,4 @@ chmod 755 utree/utree*
 
 # unzip test db
 bunzip2 test_data/shogun_test_db/phix.ctr.bz2
+bunzip2 test_data/kraken_test_db/database.idx.bz2
